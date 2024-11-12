@@ -5,3 +5,4 @@ console.log(justicel.length)
 
 
 console.log("test")
+console.log("to the terminal")
