@@ -4,3 +4,4 @@ var justicel = ["batman","flash","aquaman","wonderwomen",""];
 console.log(justicel.length)
 
 
+console.log("test")
